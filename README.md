@@ -3,6 +3,7 @@ Hi, I’m Sunishka 👋
 I’m a Computer Science student passionate about backend systems, applied AI, and building reliable, maintainable software. I focus on creating educational tools, AI-driven applications, and practical programming solutions that solve real problems.
 
 🔹 Skills & Technologies
+
 Languages: Python, C++, Java, JavaScript
 Web Development: HTML, CSS, Flask, Node.js
 AI / ML: Local LLM integration (Ollama), deterministic regression, NLP
