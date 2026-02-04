@@ -41,6 +41,7 @@ Unix Like Shell Implementation
 
 
 🔹 Interests
+
 Backend systems and scalable software design
 Applied AI / machine learning for practical problem solving
 Teaching and educational technology
