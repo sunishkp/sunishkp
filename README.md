@@ -5,9 +5,13 @@ I’m a Computer Science student passionate about backend systems, applied AI, a
 🔹 Skills & Technologies
 
 Languages: Python, C++, Java, JavaScript
+
 Web Development: HTML, CSS, Flask, Node.js
+
 AI / ML: Local LLM integration (Ollama), deterministic regression, NLP
+
 Software Design: Object-Oriented Programming, modular and scalable architectures
+
 Tools: Git, GitHub, VS Code, basic database design
 
 🔹 Notable Projects
