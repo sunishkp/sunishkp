@@ -4,7 +4,7 @@ I’m a Computer Science student passionate about backend systems, applied AI, a
 
 🔹 Skills & Technologies
 
-Languages: Python, C++, Java, JavaScript
+Languages: Python, C++, C, Typescript/Javascript
 
 Web Development: HTML, CSS, Flask, Node.js
 
